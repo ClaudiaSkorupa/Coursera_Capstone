@@ -1,0 +1,13 @@
+CHILDCARE FACILITIES 
+
+The subject of this assigment is analyzing the number of borns in London .
+We want to understand which areas  have the biggest numbers of borns . 
+The goal of goverment  is to open enough childcare facilities in each area of London . 
+
+ 
+
+First of all we have to find data which will help to solve this problem .
+The source of data is ONS (Office for National Statistics,https://data.london.gov.uk/dataset/pubs-clubs-restaurants-takeaways-borough ).
+Secondly , we <<clear >> the data because we want to have correct and useful data.
+After , we choose which data we are gonna use to analyze. Finally , we use the library seaborn and few methods to analyze the data.
+The conclusion of analyzing of data is that the areas which have the biggest number of borns are ‘London’ and ‘city of London'. 
